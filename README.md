@@ -9,5 +9,11 @@
 
 My solutions for competitive programming problems.
 
+## Compile and run with input file
+### C++
+```
+g++ filename.cpp && ./a.out < inputfile.in
+```
+
 ## Author
 * #### [M Haris F](https://github.com/harisfi)
